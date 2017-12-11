@@ -8,8 +8,12 @@
 **********************************************
 
 This project is considered complete
-We're in Alpha state for a month to find bugs, 
-  balance issues, and anything to improve experience/performance
+We're in Beta until optimization is complete.
+
+Please open a GitHub issue for:
+    -balance issues
+    -bugs
+    -anything to improve experience/performance
 
 	___________________
       > > C R E A T O R S < <
@@ -62,6 +66,8 @@ All work can be seen on our drive, from concepts, testing, to delivery:
 
 	Any feedback is welcome
 Issues, feedback - anything relating to the game	
+	Open an issue on GitHub
+	   OR
 	Contact me at:
 		"ndykers@qmail.qcc.edu" 
 
